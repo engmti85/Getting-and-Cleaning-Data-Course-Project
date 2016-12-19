@@ -3,6 +3,7 @@ This is the  code book for the getting and cleaning data course project
 Identifiers are as follows:
  
 subject - The ID of the test subject
+
 activity - The type of activity performed when the corresponding measurements were taken. 
  
 
