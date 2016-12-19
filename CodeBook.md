@@ -87,6 +87,7 @@ frequencyBodyAccMag-Mean
 frequencyBodyAccMag-StandardDeviation         
 frequencyBodyBodyAccJerkMag-Mean              
 frequencyBodyBodyAccJerkMag-StandardDeviation 
+
 frequencyBodyBodyGyroMag-Mean                 
 frequencyBodyBodyGyroMag-StandardDeviation    
 frequencyBodyBodyGyroJerkMag-Mean             
